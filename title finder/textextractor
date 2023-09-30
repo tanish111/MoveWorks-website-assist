@@ -1,0 +1,48 @@
+import requests
+import xml.etree.ElementTree as ET
+from bs4 import BeautifulSoup
+import json
+
+# Function to extract headings and paragraphs from a URL
+def extract_headings_and_paragraphs(url):
+    response = requests.get(url)
+    if response.status_code == 200:
+        soup = BeautifulSoup(response.text, 'html.parser')
+        headings = [heading.text.strip() for heading in soup.find_all(['h1', 'h2', 'h3','h4'])]
+        paragraphs = [p.text.strip() for p in soup.find_all('p')]
+        return headings, paragraphs
+    else:
+        return [], []
+
+# URL of the sitemap.xml file
+sitemap_url = 'https://moveworks.com/sitemap.xml'  # Replace with the URL of your sitemap
+
+# Send an HTTP GET request to the sitemap.xml URL
+response = requests.get(sitemap_url)
+
+if response.status_code == 200:
+    root = ET.fromstring(response.text)
+    
+    # Create JSON files to store data
+    headings_json = {}
+    paragraphs_json = {}
+    
+    # Iterate through each URL in the sitemap
+    for loc in root.findall('.//{http://www.sitemaps.org/schemas/sitemap/0.9}loc'):
+        url = loc.text.strip()
+        headings, paragraphs = extract_headings_and_paragraphs(url)
+        
+        # Store data in JSON
+        headings_json[url] = headings
+        paragraphs_json[url] = paragraphs
+
+    # Save data to JSON files
+    with open('headings.json', 'w') as headings_file:
+        json.dump(headings_json, headings_file, indent=4)
+    
+    with open('paragraphs.json', 'w') as paragraphs_file:
+        json.dump(paragraphs_json, paragraphs_file, indent=4)
+
+    print("Data extraction and JSON files creation completed.")
+else:
+    print("Failed to retrieve sitemap. Status code:", response.status_code)

@@ -1,0 +1,44 @@
+import requests
+from bs4 import BeautifulSoup
+import pandas as pd
+import requests
+import xml.etree.ElementTree as ET
+
+# URL of the sitemap.xml file
+sitemap_url = 'https://moveworks.com/sitemap.xml'  # Replace with the URL of the sitemap you want to scrape
+
+# Send an HTTP GET request to the sitemap.xml URL
+response = requests.get(sitemap_url)
+
+# Check if the request was successful (status code 200)
+if response.status_code == 200:
+    # Parse the sitemap XML content
+    root = ET.fromstring(response.text)
+    all_texth = []
+    all_textp=[]
+    # Iterate through each URL in the sitemap
+    for url in root.findall('.//{http://www.sitemaps.org/schemas/sitemap/0.9}loc'):
+        url1 = url.text.strip()
+        response = requests.get(url1)
+        soup = BeautifulSoup(response.text, 'html.parser')
+        # Add text from paragraphs
+        paragraphs = soup.find_all('p')
+        for p in paragraphs:
+            all_textp.append(p.get_text())
+        # Add text from headings (h1, h2, h3, etc.)
+        headings = soup.find_all(['h1', 'h2', 'h3'])
+        for heading in headings:
+            all_texth.append(heading.get_text())
+        # Add text from other elements as needed
+        # For example, you can add text from divs, spans, or other elements
+
+        # Concatenate all the text
+
+    df = pd.DataFrame({'Text': all_texth})
+    df.to_csv('webpage_texth.csv', index=False)
+    df2 = pd.DataFrame({'Text': all_textp})
+    df2.to_csv('webpage_textp.csv', index=False)
+else:
+    print("Failed to retrieve sitemap. Status code:", response.status_code)
+
+
