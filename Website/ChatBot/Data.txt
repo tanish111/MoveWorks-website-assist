@@ -1,0 +1,977 @@
+"TextForrester names Moveworks a leader in Chatbot for IT operations. Read the report
+today.Moveworks named a Forrester leader in Chatbot for IT operations. Schedule a meeting with a
+Moveworks representative and learn how we can help reduce employee issue resolution from days to
+seconds.By checking this box, I agree to receive company news and updates. Learn more in the Privacy
+Policy.Thank you.A member of the Moveworks team will be in touch within the next 24 hours. Close this
+modal Jiang Chen, VP of Machine LearningTomasz Jurczyk, Machine Learning EngineerMany people
+assume computers will never understand human language. But as a company that builds artificial
+intelligence to do just that, it's our job to overcome this assumption. There's no doubt that AI systems
+are capable of solving remarkably complicated problems. Why should language — perhaps the most
+impactful problem of all — be any different?So here's the challenge: making inherently ambiguous
+language more like the highly structured world of chess. And to develop that structure, two techniques
+have proven equally critical: natural language processing (NLP) and natural language understanding
+(NLU). NLP organizes language into the structured data that computers require to process, while NLU
+interprets that data to derive meaning.To appreciate the strides computers have already made toward
+understanding language, let’s talk about one of the first major challenges put before them: chess. Chess
+is no less complex than language, and yet computers were capable of defeating even chess
+grandmasters decades ago. By considering a huge amount of situational data, chess-playing programs
+not only figure out their next move; they also anticipate the next three moves, five moves, and even ten
+moves down the line. In this blog, we’ll cover:To learn why computers have struggled to understand
+language, it’s helpful to first figure out why they're so competent at playing chess. Chess, needless to
+say, isn’t easy. There are more possible moves in a game than there are atoms in the universe.But while
+playing chess isn’t inherently easier than processing language, chess does have extremely well-defined
+rules. There are certain moves each piece can make and only a certain amount of space on the board for
+them to move. Computers thrive at finding patterns when provided with this kind of rigid structure. Yet
+language is not so formulaic. It breaks rules all the time.In the lingo of chess, NLP is processing both the
+rules of the game and the current state of the board. How can you move your bishop? Where is your
+opponent's queen? An effective NLP system takes in language and maps it — applying a rigid, uniform
+system to reduce its complexity to something a computer can interpret. Matching word patterns,
+understanding synonyms, tracking grammar — these techniques all help reduce linguistic complexity to
+something a computer can process.Figure 1: At its most basic level, NLP involves treating each utterance
+as a unique string of words, with minimal interpretation. In this example — a chatbot only knows the
+preprogrammed phrase “I need Zoom,” and it is unable to respond to slightly altered phrasing.The
+easiest way to structure unstructured language is to treat each unique utterance as its own data point.
+The equivalent in chess would be making moves completely dependent on the opponent’s last move:
+advancing a pawn simply because the other person moved their rook. Obviously, this is a losing strategy
+— both in chess and in language learning. While creating a chatbot like the example in Figure 1 might be
+a fun experiment, its inability to handle even minor typos or vocabulary choices is likely to frustrate
+users who urgently need access to Zoom. While human beings effortlessly handle verbose sentences,
+mispronunciations, swapped words, contractions, colloquialisms, and other quirks, machines are
+typically less adept at handling unpredictable inputs.Figure 2: The goal of NLP is to provide structure to
+unstructured, ambiguous language.In Figure 2, we see a more sophisticated manifestation of NLP, which
+gives language the structure needed to process different phrasings of what is functionally the same
+request. With a greater level of intelligence, NLP helps computers pick apart individual components of
+language and use them as variables to extract only relevant features from user utterances.With NLP, we
+
+reduce the infinity of language to something that has a clearly defined structure and set rules. To put it
+simply, we make language more like chess. Crucially, however, the job isn’t done yet. Assembling the
+information extracted by NLP, NLU focuses primarily on comprehension: understanding utterances in
+the context of the broader conversation to choose the right response.A number of advanced NLU
+techniques use the structured information provided by NLP to understand a given user's intent. These
+techniques include paraphrase detection, which determines whether a pair of utterances has the same
+meaning, and topic switching, which enables AI to follow a non-linear conversation that naturally jumps
+around different subjects.Figure 3: NLU goes beyond processing language at face value: it illuminates a
+user’s underlying intent.NLU is an integral part of NLP. If NLP is about understanding the state of the
+game, NLU is about strategically applying that information to win the game. Thinking dozens of moves
+ahead is only possible after determining the ground rules and the context. Working together, these two
+techniques are what makes a conversational AI system a reality. Consider the requests in Figure 3 —
+NLP’s previous work breaking down utterances into parts, separating the noise, and correcting the typos
+enable NLU to exactly determine what the users need.While NLP and NLU are not interchangeable
+terms, they both work toward the end goal of understanding language. There might always be a debate
+on what exactly constitutes NLP versus NLU, with specialists arguing about where they overlap or
+diverge from one another. But, in the end, NLP and NLU are needed to break down complexity and
+extract valuable information.Figure 4: Both NLP and NLU play an important role in understanding a
+user’s request, but the line where one approach ends and the other begins is blurry.To win at chess, you
+need to know the rules, track the changing state of play, and develop a detailed strategy. Understanding
+language involves the same three elements. And like playing chess, the key is constant improvement.
+Chess and language present more or less infinite possibilities, and neither have been solved for good.
+Yet the more we know, the better decisions we make. By working diligently to understand the structure
+and strategy of language, we’ve gained valuable insight into the nature of our communication. Building a
+computer that perfectly understands us is a massive challenge, but it’s far from impossible — it’s already
+happening with NLP and NLU.Contact Moveworks to learn how AI can supercharge your workforce
+productivity.
+Discover how AIOps transforms IT operations from reactive to proactive. Understand
+the AIOps revolution and shift from firefighters to innovators.
+Learn how AI & automation can
+immediately provide ROI and elevate service experience at scale for federal and state government and
+the public sector as a whole.
+3 key takeaways from the Forrester Technology & Innovation
+Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
+Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and
+supporting staff. Learn how leading providers use this technology.
+From spelling correction to
+intent classification, get to know the large language models that power Moveworks' conversational AI
+platform.
+AI is transforming IT operations analytics (ITOA). Here are the key benefits and
+challenges of implementing AI-driven ITOA, including real-world examples.
+Forrester names
+Moveworks a leader in Chatbot for IT operations. Read the report today.Moveworks named a Forrester
+leader in Chatbot for IT operations. Schedule a meeting with a Moveworks representative and learn how
+we can help reduce employee issue resolution from days to seconds.By checking this box, I agree to
+receive company news and updates. Learn more in the Privacy Policy.Thank you.A member of the
+Moveworks team will be in touch within the next 24 hours. Close this modal Microsoft Teams becomes
+the unified IT support hubIntegrating with Moveworks enables Microsoft Teams to become a unified,
+natural language UI/UX for enterprise apps and services, including ServiceNow.Faster adoption of
+Microsoft TeamsGetting IT support is a problem for every employee. The Moveworks and Microsoft
+
+Teams integration allows enterprises to demonstrate the benefits of messaging to employees across the
+entire organization. As a result, employees organically adopt Microsoft Teams when they see it delivers
+faster IT support.Better employee experienceMoveworks autonomously resolves, on average, 40% of all
+IT support tickets with a resolution time of 60 seconds. Employees get their IT support issues solved in
+seconds instead of days—all with a simple, natural language chat in Microsoft Teams.More ROI from
+existing automationEnterprises running Microsoft Teams and Moveworks derive better ROI on their
+existing automated services. Moveworks makes this possible because its conversational AI understands
+the IT issue when the employee reports it in a Microsoft Teams chat. Moveworks takes immediate
+action, executing the appropriate automated service.“Moveworks is a rare breed of technology that
+immediately provides value back that we can invest in other areas of IT.”Forrester names Moveworks a
+leader in Chatbot for IT operations. Read the report today.Moveworks named a Forrester leader in
+Chatbot for IT operations. Schedule a meeting with a Moveworks representative and learn how we can
+help reduce employee issue resolution from days to seconds.By checking this box, I agree to receive
+company news and updates. Learn more in the Privacy Policy.Thank you.A member of the Moveworks
+team will be in touch within the next 24 hours. Close this modal Natasha Klein-Atlas, Principal
+Researcher, Data AnnotationKate Lubrano, Annotation ManagerFor a long time, chatbots suffered from
+a negative reputation, primarily due to their frequent misunderstandings of user requests. Many users,
+subject to the limitations of primitive, script-bound chatbots, longed to speak to live agents who could
+comprehend their needs the first time around. Recognizing this frustration, artificial intelligence (AI)
+developers sought solutions to harness the technology's distinguishing capacity to learn and evolve
+continually, ultimately setting it apart from static, code-dependent software. By tapping into AI's
+potential, researchers aim to reach the state of dynamic communication tools and leave rigid chatbots
+behind.This adaptability employs high-quality annotated data, a crucial ingredient for developing
+representative, successful, and unbiased AI models. Data annotation, the often unsung hero of AI, is the
+key to reaching excellence. It plays an indispensable role in advancing intelligent conversational AI and
+fostering chatbots that respond to human language naturally and intuitively.In this blog post, we aim to
+illuminate the intriguing world of data annotation and highlight its significance in teaching chatbots to
+interact seamlessly with users.We’ll cover: Annotation provides much-needed context and
+categorization for machine learning models to extract valuable insights by way of assigning labels to raw
+data. In this process, a taxonomy — a system of classification — is applied to systematically organize and
+classify data.Data annotation is the backbone of modern AI applications. Its primary function is to help
+machines comprehend and interpret various forms of data such as text, video, images, or audio. Thanks
+to this methodical annotation, AI systems can process different types of content effectively.More
+specifically, text annotation can be broken down into various tasks, including but not limited to:As
+mentioned, annotation encompasses more than just textual formats. For instance, image or video
+annotation may include classification, which entails categorizing images according to their content;
+object recognition, which involves identifying and locating specific objects within images or video
+frames; image segmentation, the process of dividing an image into regions representing distinct objects
+or areas of interest; and boundary recognition, to further refine object identification.In this blog, we'll
+primarily concentrate on text annotation, as it aligns with Moveworks' objective of comprehending and
+interacting with enterprise language. However, please note that annotation is crucial to the
+advancement of all AI, particularly with the ongoing development of large multimodal models that are
+able to engage with images, audio, and more. Before getting into the importance of data annotation,
+let's first acknowledge the inherent challenges posed by the ambiguity of human language. People
+
+articulate their needs in vastly diverse ways — concise or lengthy, jargon-filled or formal. And on top of
+that, a user’s goals carry more specificity than any taxonomy you apply to them. With seemingly infinite
+possibilities to convey a message or pose a question, humans can still effortlessly communicate, as they
+are naturally adept at comprehending linguistic nuances.But for an untrained AI system, deciphering the
+essence of such communications can be an arduous task. To illustrate this challenge, consider a
+colleague who shares a meandering story about their vacation and how they could not access the
+company portal due to poor Wi-Fi service. Despite various HR-related keywords such as “vacation” and
+“time off”, a human reader or listener would quickly infer that their issue was an IT problem, not an HR
+problem. An untrained bot, in contrast, might struggle to prioritize the most relevant keywords. This is
+precisely where data annotation steps in. Training AI models on high-quality, annotated data allows
+them to grasp the complexity and diversity of natural language, separate the signal from the noise, and
+focus on the most critical aspects of user input.This becomes particularly important when attempting to
+predict user's needs based on a chosen taxonomy. Through maintaining a manageable level of
+granularity in the annotation process, we can improve the decision-making skills of our AI. This method
+contrasts with approaches used by some, where they assign a single intent to each piece of content, say
+a knowledge base article, which could lead to reduced productivity and clarity in understanding users'
+needs via a proliferation of intents.In turn, AI systems and chatbots can accurately respond to a wide
+range of human communication with minimal effort. Data annotation empowers AI to comprehend the
+nuanced symptoms users describe and connect them with solutions, cutting through linguistic
+complexities and delivering elegant solutions. To sum up, data annotation is an essential component in
+creating AI systems capable of providing meaningful user experiences. The impact of data annotation
+spans industries and use cases, significantly enhancing the capabilities and practicality of AI-powered
+solutions across the board. What is the role of annotators?An AI annotator's role is to systematically
+review and label different data types, translating human language and inputs into machineunderstandable formats. Your brain most likely would automatically determine that if you try your
+password incorrectly too many times, you may need your account unlocked, but machines require
+annotated data to effectively learn patterns, make sense of data, and adapt their responses. Annotated
+data is particularly crucial for training large language models (LLMs), as their key purpose is to digest,
+interpret, and generate human-like conversation. Focusing on intent annotation, we define “intent” as
+the ultimate goal or user need. Intent annotation acts as a bridge between human language and
+machine language. Annotators review real messages sent to chatbots (utterances) and user-submitted
+tickets. We do this review while protecting personal and sensitive information, incorporating the
+principles of privacy by design and by default. Annotators label these user inputs using a taxonomy that
+the bot understands and can map to its corresponding actions. For instance, a password resetting issue
+might be labeled with Reset Authentication, which triggers the bot's specific skill. Through intent
+annotation, annotators teach the AI system to recognize patterns in seemingly disparate phrasings and
+accurately respond to meet users’ needs. A variety of techniques and approaches are available for
+annotating your data. In this section, we will discuss the most popular methods - in-house, outsourced,
+crowdsourced, and AI-driven annotation - and examine the strengths and weaknesses of each. In-house
+annotation involves using your own team of dedicated annotators to process and tag the data, ensuring
+a high level of control over quality and consistency of the annotations. Strengths: Weaknesses:
+Outsourced annotationOutsourced annotation refers to delegating the data annotation tasks to a thirdparty provider that specializes in the field, such as a technology consulting firm or a managed services
+provider. Strengths: Weaknesses: Crowdsourced annotation — a particularly popular approach in the
+
+research community — relies on platforms that gather a large pool of contributors from around the
+world to annotate data, usually on a pay-per-task model. Amazon Mechanical Turk is one example of
+crowdsourced annotation platforms. Strengths: Weaknesses: AI-driven annotation employs machine
+learning algorithms to automatically label the data. Over time, iteratively refining and improving the AI
+model can achieve higher annotation accuracy. Strengths: Weaknesses: Analyzing the strengths and
+weaknesses of each technique empowers you to make informed decisions that best suit your project
+requirements, budget, and time constraints. Data annotation has far-reaching implications across
+various industries. In teaching AI models to proficiently engage with user interactions, many businesses
+can leverage the power of annotated data to drive innovation, improve customer experience, and
+optimize processes. Below, we delve into some of the most notable applications of data annotation,
+spanning sectors such as medical, retail, finance, legal, automotive, industrial, and employee support.
+Medical: In the medical industry, annotated data enables AI systems to analyze medical images,
+electronic health records, and diagnostic data. Examples of applications include detecting diseases in
+radiology scans, predicting patient outcomes, and creating personalized treatment plans. There are also
+significant and long-standing applications of annotation in medical research, such as the extraction of
+information from published research papers. In this line of work, annotators are typically Ph.D.
+scientists.Retail: Data annotation helps retail businesses better understand customer preferences,
+improve inventory management, and optimize store layouts. Annotated data can also aid in creating AIdriven conversational assistants, which help customers with inquiries and product
+recommendations.Finance: Financial institutions harness annotated data to develop AI models that
+detect fraudulent activities, analyze market trends, and improve customer service. Data annotation also
+is the key to creating chatbots that both answer customer questions and offer personalized investment
+recommendations.Legal: In the legal sector, annotated data is invaluable for developing AI models that
+can process and analyze vast amounts of legal documents, identifying relevant precedents, streamlining
+contract review, and helping with e-discovery. Data annotation also contributes to creating AI-driven
+tools that facilitate legal research, predict case outcomes, and assist in automating routine tasks —
+reducing workload for legal professionals.Automotive: In the realm of autonomous vehicles, data
+annotation is instrumental in training AI systems to recognize traffic signs, pedestrians, bicycles, and
+other vehicles. Annotated data forms the foundation for the development of advanced driver-assistance
+systems (ADAS), which significantly enhance road safety.Industrial: Data annotation supports AI system
+adoption in the industrial sector, enabling predictive maintenance, real-time monitoring of equipment,
+and quality control. Annotated data trains AI models to detect anomalies, optimize production
+processes, and improve overall productivity. Employee Support: Annotated data is also crucial in
+realizing intelligent employee support systems. By training AI models to accurately understand user
+requests, machine learning-driven platforms can offer seamless assistance with IT support, HR issues,
+and other workplace tasks, enhancing the overall employee experience. As illustrated by these
+applications, data annotation is at the core of AI-driven innovations, empowering industries to leverage
+machine learning and usher in a new era of smart solutions. The right investment in data annotation can
+pave the way to unparalleled growth, revolutionizing businesses across diverse sectors. In an enterprise
+setting, AI systems are expected to perform at their best, adapting to specific use cases and delivering
+fluid experiences for customers and employees alike. For AI to thrive in this context, it must be
+proficient in dealing with complex situations, recognizing domain-specific terminology, and making
+accurate inferences based on user input. Data annotation is deeply involved in achieving these high
+performance standards, as it is necessary for AI models to smoothly adapt to unique enterprise use
+
+cases. Effective data annotation assists AI systems in better understanding various contexts within the
+enterprise realm, such as: Clearly, data annotation is a vital aspect of any enterprise AI endeavor. The
+process of annotating data allows AI systems to adapt to organization-specific demands and
+complexities, delivering custom solutions that cater to unique use cases. Investing time and resources
+into data annotation facilitates successful AI adoption, transforming operations and customer
+interactions aligned with the ever-evolving digital landscape. Data annotation can be hindered by
+challenges such as cost, accuracy, and ambiguity. Here’s a quick run-through of these limitations and the
+ways annotators and enterprises can work together to overcome these obstacles.CostOne of the
+primary challenges encountered in data annotation is the financial cost associated with hiring and
+training annotators. Investing in annotators ensures high-quality annotations that lead to improved AI
+system performance. Striking a balance between securing adequate resources for annotators and
+managing organizational constraints is essential for maintaining an efficient annotation process.Ensuring
+the accuracy of annotated data is crucial for the efficacy of AI models. Mislabeled datasets can
+negatively impact AI performance, leading to undesirable outcomes, such as incorrect predictions or
+responses. Annotators and enterprises must continuously monitor and maintain the quality of
+annotations to ensure AI models are trained on the most accurate, current, and relevant data.One of the
+greatest challenges of annotation is dealing with ambiguity. Words, acronyms, and abbreviations can
+have multiple meanings. Annotators are able to consider the organization and the industry that the
+utterance or ticket they are evaluating originated from, which can help narrow things down. The same
+acronym could be referring to a particular form at one organization but an internal software tool at
+another. In some cases, annotators are able to reference more specific customer language resource
+documents in order to classify a resource type of a potentially ambiguous term with more accuracy. The
+type of company a user works for can also be important to consider when determining intent. For
+example, while at most organizations served by Moveworks utterances discussing health insurance are
+likely to fall into our “Benefits” Resource label, if we know the organization is a health insurance
+provider we may need to read deeper into the utterance to determine if it is about insurance being
+provided to an external client.Further complicating annotation is the fact that each utterance can be
+considered individually, without the context of the conversation history. Annotators must then assess
+and annotate single utterances without having this context, which can occasionally make it difficult to
+infer the intended meaning. Ambiguity is added when messages are cut off by a user hitting Enter too
+soon, or in cases where a user is referencing something previously discussed with vague terms such as
+“it” instead of naming the actual resource. In these cases, annotation can feel like an exercise in mind
+reading, but expert annotators are typically able to make educated guesses based on their experience
+reviewing similar utterances.Disagreement resolution is a process of addressing both annotator errors
+and valid interpretive differences in opinion, ensuring data consistency, as well as refining guidelines. By
+analyzing differing interpretations of user inputs, annotators can improve annotation quality.
+Historically, collecting multiple opinions and resolving disagreements has helped us correct annotator
+errors, identify ambiguous inputs, and refine project documentation. This process has also led to better
+taxonomy definitions, minimizing biases while enabling the AI to ask clarifying questions when needed.
+In pursuit of efficiency, the Moveworks team has reduced time spent on disagreement resolution,
+instead aiming for an 85% organic agreement rate. Continuous improvements have resulted in
+consistently reaching or even exceeding this goal, achieving high-quality data to train AI models
+effectively. Data annotation is a critical process for creating high-quality labeled datasets used in many
+machine learning applications. To ensure the accuracy and consistency of annotations, it is important to
+
+establish clear guidelines for annotators to follow. This will lead to increased efficiency while helping
+maintain a robust quality control process. The following is a list of key best practices that you should
+consider when starting the annotation process. Prepare detailed and easy-to-read instructions: Provide
+articulate guidelines for your annotators to follow, including examples and edge cases. This will help
+avoid confusion and ensure that annotators understand how to handle various scenarios, leading to
+more accurate annotations.Support humans with machines: Leverage machine learning techniques, such
+as automated pre-annotations, to provide a starting point for human annotators. Machine-generated
+suggestions can save time and help achieve consistent results, allowing annotators to focus on refining
+the outcome and handling more complex cases. Focus on quality: Ensure you have a robust quality
+control process in place throughout the data annotation project. This may involve periodic reviews,
+inter-annotator agreement measurements, and addressing discrepancies, which can improve the
+accuracy and consistency of the final dataset. Stay compliant: Be mindful of privacy policies, regulations,
+and ethical considerations when annotating data. This includes proper data anonymization and
+following guidelines relevant to specific domains such as finance, healthcare, or education. Iterate and
+update guidelines: Data annotation is an ongoing process. As you gather more data and feedback,
+update the guidelines accordingly to address new challenges and scenarios. Keep your guidelines
+current and ensure that annotators are informed of any changes, maintaining consistency and
+adaptability over time. Select the right annotation tools and techniques: Choose the best tools and
+methodologies for your specific data annotation project as capable and precise tools make the process
+annotator-friendly. This may vary depending on the type of data, the project's scope, and other factors.
+Having the right tools can streamline the annotation process and improve efficiency. Encourage
+communication and collaboration: Facilitate open communication between annotators and project
+managers. Address questions and provide regular feedback, helping minimize errors, and fostering a
+collaborative environment for annotators to learn from each other and make improvements. Diversify
+your annotator team: Having a diverse range of perspectives among your annotators can reduce bias in
+your dataset. Ensure that your training data is annotated by people with different backgrounds,
+experiences, and skill sets to increase overall quality and impact. Set realistic goals and timelines:
+Establish specific, measurable, and achievable goals for your data annotation project. Ensure that
+project deadlines are realistic and considerate of the resources available. This will help manage
+expectations, keep the team motivated, and deliver a high-quality annotated dataset in a timely
+manner. As AI technology continues to rapidly evolve, AI-powered data annotation is poised to play a
+significant role in reshaping various industries and transforming the way data is processed, organized,
+and utilized. Here's an overview of the potential impact of AI annotation in the future: Scalability: AIdriven annotation can help scale the data annotation process exponentially, reducing the reliance on
+human annotators and decreasing the time required for annotation tasks. This will enable organizations
+to process larger volumes of data at unprecedented speeds, ultimately fueling faster AI system
+development and deployment. Increased annotation efficiency and accuracy: Advanced machine
+learning algorithms will be able to both automate and enhance the quality of annotations, minimizing
+errors and inconsistencies. As AI systems become more intelligent, the gap between human and
+machine-generated annotations will contract, with AI models increasingly handling complex tasks with
+ease. Personalized AI models: With more annotated data, AI systems will be able to learn from diverse
+user experiences and preferences, paving the way for highly personalized models. Tailoring AI outputs to
+individual users will greatly benefit industries such as healthcare, education, marketing, and customer
+service, promoting a more engaging and customized user experience. Greater accessibility to AI
+
+technologies: The democratization of AI-powered data annotation will lower barriers to entry for
+organizations looking to harness AI capabilities. With faster and more cost-effective annotation options,
+even smaller entities and startups can access and utilize advanced AI technologies across various
+domains. Ethical AI with reduced bias: As AI-driven annotation processes evolve, creating unbiased and
+ethically sound AI models will be of paramount importance. Diversifying training data can help achieve
+more representative and unbiased systems that consider a wide range of perspectives and serve a
+broader audience. However, this approach is not without risks. It’s also possible that depending
+exclusively on AI annotation will only perpetuate biases on a larger scale. Data annotation is integral to
+the development of advanced AI systems and chatbots that interact seamlessly with users. By
+understanding the intricacies of data annotation, we can empower AI to comprehend and empathize
+with users, cutting through linguistic complexities and delivering optimal solutions across diverse
+industries. With the right investment in data annotation, we can also establish a foundation for
+unparalleled growth, revolutionizing businesses across the board. To leverage the full potential of data
+annotation, we encourage readers to explore further resources on improving annotation, reducing
+biases, and staying compliant. Keep an eye on the future of AI annotation, as it will continue to
+transform and elevate the landscape of AI-assisted communication.Request a demo to see how your
+business can use conversational AI.
+Discover how AIOps transforms IT operations from reactive to
+proactive. Understand the AIOps revolution and shift from firefighters to innovators.
+Learn
+how AI & automation can immediately provide ROI and elevate service experience at scale for federal
+and state government and the public sector as a whole.
+3 key takeaways from the Forrester
+Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy
+Copilots. Read the recap.
+Conversational AI is improving healthcare delivery by automating
+tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
+From spelling correction to intent classification, get to know the large language models that power
+Moveworks' conversational AI platform.
+AI is transforming IT operations analytics (ITOA). Here
+are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
+Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.Moveworks
+named a Forrester leader in Chatbot for IT operations. Schedule a meeting with a Moveworks
+representative and learn how we can help reduce employee issue resolution from days to seconds.By
+checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.Thank
+you.A member of the Moveworks team will be in touch within the next 24 hours. Close this modal Last
+updated April 2023Forrester names Moveworks a leader in Chatbot for IT operations. Read the report
+today.Moveworks named a Forrester leader in Chatbot for IT operations. Schedule a meeting with a
+Moveworks representative and learn how we can help reduce employee issue resolution from days to
+seconds.By checking this box, I agree to receive company news and updates. Learn more in the Privacy
+Policy.Thank you.A member of the Moveworks team will be in touch within the next 24 hours. Close this
+modal Varun Singh, VP of ProductIf you’ve been following Moveworks for long, you understand the
+enormous potential of AI to automate support for employees — while also allowing service desks to
+spend more time on high-impact work. But for large and complex enterprises, achieving that level of
+end-to-end automation isn’t easy. Everything from company policies to user permissions to knowledge
+articles is in constant flux. New resources get added every day, while others become obsolete. And even
+the most relevant resource for a Canadian employee on the Sales team might not help an engineer in
+France. Without considering all of this nuance, automation projects often fail to get off the
+ground.Moveworks is the first AI platform that’s purpose-built to automate support for the world’s
+
+largest companies. And today, we’re announcing major enhancements to our platform, designed
+specifically to handle these complex environments. At the core of this announcement is Adaptive
+Response, a technique that enables our bot to serve up a completely custom answer based on user
+context and past feedback. We’re also announcing expanded integrations, a context-aware permissions
+system, and the ability to hand off high-touch issues to a live service desk agent. Collectively, the
+enhancements allow large companies to deliver instant and effortless support to their employees, with a
+single AI platform that keeps pace as their business evolves.Read the full announcement here.
+Seemingly simple issues often demand complex solutions. A lot of behind-the-scenes effort is needed to
+answer, “What’s the policy for taking time off?” And while a conventional chatbot would likely provide
+one, pre-programmed response in every situation, Moveworks takes a deeply personalized and
+contextual approach to support, one which adapts as companies change.With Adaptive Response,
+Moveworks has taken this approach to the next level: automatically generating customized responses to
+each issue, based on all available resources, in real time. Building on our existing conversational AI
+system, Adaptive Response allows Moveworks to offer up multiple solutions when useful — for
+instance, a form and two knowledge articles — in a format that’s optimized to resolve support issues as
+quickly as possible:Figure 1: Adaptive Response gives Moveworks the ability to completely customize its
+responses, from the resources it surfaces to even the format of the response itself.When someone asks
+Moveworks about PTO, our bot considers everything from current context to user feedback, then
+provides the best, most up-to-date resources for that person. In Figure 1, Moveworks serves up two
+resources — a knowledge article and a form — that are tailor-made for the contractor who needs help.
+Critically, Adaptive Response also accounts for the fact that answers change. If in two weeks this
+contractor is hired to work full time, his answer would be drastically different. On top of this, new
+resources are added, and old ones are retired all the time. At a company with thousands of knowledge
+articles, forms, and workflows, keeping track of so many solutions can be a frustrating and manual job.
+But by leveraging Adaptive Response and constantly incorporating new information, Moveworks finds
+the ideal path to resolution, without involving the service desk. Support teams expend a huge amount of
+effort to painstakingly build out their knowledge bases. The problem is that every department has its
+own specialized tool — the HR team might keep its knowledge in Simpplr, the IT team in Confluence,
+and the Finance team in SharePoint. As a result, employees struggle to track down the information they
+need to stay productive. That’s why Moveworks is expanding its integrations with Simpplr, Cherwell,
+Freshservice, and SharePoint on-premises. Now, when employees have questions, Moveworks can serve
+up a precise snippet of information from within any of these tools, or even multiple snippets if helpful.
+So instead of searching through endless systems or filing a support ticket, employees can simply
+describe any issue to Moveworks — directly in Microsoft Teams or Slack — and get an answer in
+seconds, all without any manual configuration. One of the biggest challenges in automating support is
+that different users have different permissions. Making sure that only authorized users can see
+restricted content isn’t something that simple, pre-programmed chatbots do well. In fact, even for the
+service desk, it can be incredibly difficult to ensure that information always ends up in the right
+hands.Figure 2: Moveworks considers the unique permissions of each user, such as their position,
+seniority, and employment status.As of this release, we’ve revamped our permissions system to ensure
+that only authorized employees see sensitive content. Our platform can now restrict access based on
+location, seniority, department, and other important factors, understanding complex layers of user
+information to provide individualized support automatically. And because Moveworks can ingest
+existing access control roles from service desk systems, like ServiceNow, incorporating permissions into
+
+the platform is straightforward for support teams. Moveworks automates a high percentage of issues all
+by itself, but some situations will always require a person to step in and help out. Using natural language
+understanding (NLU) to understand employees' requests, Moveworks works with Vayusphere to make a
+seamless handoff to a live service desk agent — automatically triaging issues to the right expert. With
+this new approach, employees get support from the right expert directly in their enterprise chat
+platform. Figure 3: Moveworks streamlines the handoff to a live service desk agent via a deep
+integration with Vayusphere.At Moveworks, we’re constantly working to unravel the complexities of
+today’s digital world. And that means resolving every request for help — IT, HR, finance, facilities, or
+otherwise — completely and autonomously.Each of the innovations we’ve announced today plays a role
+in giving employees one simple place to go for help. Anyone can ask a question in plain English and get
+what they need to get the job done. Moving forward, we’ll continue to find new and creative ways to
+solve support issues faster, no matter the complexity.Request a demo to see the Moveworks platform in
+action.
+Discover how AIOps transforms IT operations from reactive to proactive. Understand the
+AIOps revolution and shift from firefighters to innovators.
+Learn how AI & automation can
+immediately provide ROI and elevate service experience at scale for federal and state government and
+the public sector as a whole.
+3 key takeaways from the Forrester Technology & Innovation
+Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
+Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and
+supporting staff. Learn how leading providers use this technology.
+From spelling correction to
+intent classification, get to know the large language models that power Moveworks' conversational AI
+platform.
+AI is transforming IT operations analytics (ITOA). Here are the key benefits and
+challenges of implementing AI-driven ITOA, including real-world examples.
+Forrester names
+Moveworks a leader in Chatbot for IT operations. Read the report today.Moveworks named a Forrester
+leader in Chatbot for IT operations. Schedule a meeting with a Moveworks representative and learn how
+we can help reduce employee issue resolution from days to seconds.By checking this box, I agree to
+receive company news and updates. Learn more in the Privacy Policy.Thank you.A member of the
+Moveworks team will be in touch within the next 24 hours. Close this modal Varun Singh, VP of
+ProductEveryone’s talking about conversational AI. Thought leader after thought leader is sounding off
+about the importance of investing in a slew of machine learning-powered tools, practically shouting
+from the rooftops about the transformational impact of AI-powered chatbots in the
+workplace.Regardless of all the buzz around conversational AI, there’s little information out there on
+what it can actually do. Resources for creating your own conversational AI strategy or even details on
+everyday use cases are limited. Today, I’m here to show you that conversational AI is more than just a
+buzzword. It’s a powerful tool that can make an immediate impact across your organization. Companies
+like Palo Alto Networks and DocuSign are already using this technology to reshape every aspect of how
+their teams get help at work. The immediate, real-time support provided by conversational AI powers
+employee comms, offers insight into common issues, and much more — leaving employees more time
+to focus on higher impact work. So let me introduce you to a fraction of what’s possible with
+conversational AI on day one. The power of conversational AI lies in its ability to respond dynamically. It
+isn’t limited by dialog flows or pre-scripted solutions. An AI-powered chatbot can help you perform
+complex, multistep tasks like setting up PTO, troubleshooting Adobe Acrobat, or submitting an expense
+report — without forcing you to learn a new interface. It immediately understands user requests and
+responds in seconds.A major reason employees reach out to their IT or HR team is just to get basic
+questions answered. Conversational AI can resolve common issues autonomously, freeing support
+
+teams up to address higher-priority work.With conversational AI, you can autonomously provision, or
+de-provision, the software your employees need to get work done. Instead of spending an hour on the
+phone with IT, they can ask a chatbot for access and receive a response in as little as seconds.Even the
+most capable support teams can find it difficult to keep track of hundreds of different users and all their
+permissions. When an employee asks for access to Tableau, a deeply integrated conversational AI can
+offer up a personalized solution, depending on that employee’s access level.By integrating with identity
+management systems like Active Directory and Okta, conversational AI can proactively message
+employees to prevent lockouts and securely restore access with no help desk
+involvement.Conversational AI makes it possible for employees to fill out and submit forms directly in
+their chat platform, using natural language. Filling forms — a process that once involved many different
+platforms and steps — can be completed quickly and conversationally.Large enterprises typically handle
+several thousand password issues every month. With conversational AI, employees can reset passwords
+by asking a chatbot for help, meaning thousands fewer IT tickets to worry about.Conversational AI can
+automatically route approvals to the right hands. Managers can easily accept or deny access using
+natural language, ensuring that employees get what they need, from software to PTO, quickly and
+securely. Companies use a range of strategies to communicate with their employees en masse, but
+usually it comes down to firing off a bunch of emails. Even if your people pay attention to their inboxes,
+this approach doesn’t make it easy for employees to ask follow-up questions provide information to
+your comms team on who’s acted and who hasn’t. Conversational AI flips the script, turning one-way
+messages into two-way conversations.Employees will always have questions when their company
+launches a new policy or updates a security protocol. Whereas an email is a dead-end, when you send a
+message with a chatbot, you’re sending an expert capable of answering any follow-up questions.On
+their first day at a job, new hires drown in information. By sending onboarding materials via a
+conversational chatbot, employees can start their jobs right — with the ability to prioritize top-of-mind
+questions on day one.Your campaign doesn’t end after you send your message. Conversational AI offers
+visibility into your comm’s performance. When you know who’s seen it and who’s taken action, you can
+send a targeted reminder to ensure that the change you want to happen happens. Solving a support
+issue involves multiple conversations between employees and service desks. But when each issue is
+considered a unique, individual problem, it’s hard to see the big picture. By handling this back-and-forth
+over chat, conversational AI resolves issues faster, minimizing support wait times and, even more
+critically, offering unique insights into how to improve existing systems.Every company has common
+support issues, from troubleshooting the VPN to getting a Zoom Pro license. AI can offer insight into the
+issues employees have so that your team can build the right resources and make it even easier for
+everyone to get the specific help they need.Many companies have hundreds or even thousands of
+assignment groups, meaning that service desk agents struggle to determine where to route issues. A
+chatbot solves common support issues instantly, but when expert help is needed — AI understands and
+routes requests to the right assignment group.Support tickets can take forever to solve because they
+involve multiple conversations between employees and service desks. But conversational AI handles
+back-and-forth autonomously. From updating employees to nudging agents to closing tickets, AI makes
+support seamless. I’ve only covered 13 conversational AI use cases here. But the applications are
+limitless. It makes it possible for support teams to completely eliminate common pain points, allowing
+new hires to ramp up quickly and long-time employees to grow.Conversational AI isn’t just about
+automating onboarding tasks or expediting approvals. Rather, it allows support teams to make
+thousands of tiny improvements in real time, transforming the employee experience.As more and more
+
+organizations recognize people as their greatest assets, company leaders have come to realize that they
+need to do more than drop buzzwords. They need to adopt the tools and technologies, including
+conversational AI, that kickstart an employee experience where problems are solved in seconds over
+simple conversation.Request a demo to see the Moveworks' conversational AI in action.
+Discover
+how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and
+shift from firefighters to innovators.
+Learn how AI & automation can immediately provide ROI
+and elevate service experience at scale for federal and state government and the public sector as a
+whole.
+3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make
+generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
+Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and
+supporting staff. Learn how leading providers use this technology.
+From spelling correction to
+intent classification, get to know the large language models that power Moveworks' conversational AI
+platform.
+AI is transforming IT operations analytics (ITOA). Here are the key benefits and
+challenges of implementing AI-driven ITOA, including real-world examples.
+Forrester names
+Moveworks a leader in Chatbot for IT operations. Read the report today.Moveworks named a Forrester
+leader in Chatbot for IT operations. Schedule a meeting with a Moveworks representative and learn how
+we can help reduce employee issue resolution from days to seconds.By checking this box, I agree to
+receive company news and updates. Learn more in the Privacy Policy.Thank you.A member of the
+Moveworks team will be in touch within the next 24 hours. Close this modal Bhavin Shah, CEO and
+FounderIf you’re an IT leader, you know that most useful technology takes way too much of your time to
+build, deploy, and maintain. And unless you happen to have a team of world-class AI experts on hand,
+this do-it-yourself model makes truly game-changing technology seem out of reach.At Moveworks,
+we’ve built a conversational AI chatbot that assists employees to instantly resolve their IT issues within
+Microsoft Teams — without forcing you to hire your own AI experts. We build, deploy, and maintain the
+hundreds of machine learning models that power our bot in-house, which means your help desk’s
+workload starts disappearing on day one.Now, the Moveworks chatbot app is available for customers to
+install directly from either Microsoft AppSource or the Teams store. Going from implementation to
+impact with enterprise AI has never been easier.“By helping to quickly resolve employees’ IT issues
+within Microsoft Teams, Moveworks allows companies to work faster. And in a world that now relies on
+technology to collaborate, it’s never been more critical to provide real-time, location-agnostic tech
+help.”Mike Ammerlaan, Director, Microsoft 365 Ecosystem at Microsoft In the past, fully deploying our
+bot took eight weeks, but with the Moveworks chatbot app now available from Microsoft AppSource,
+you can shrink that time-to-value even further — thanks to these added capabilities:For enterprise
+Teams customers like Equinix, Moveworks has significantly enhanced the Teams platform in two distinct
+ways. First, Moveworks allows Equinix employees already using Teams to fix their tech problems — from
+accessing software to editing email lists to unlocking accounts — via quick, painless conversations with
+our chatbot. And second, Moveworks intercepts IT issues submitted through other channels and then
+resolves those issues on Teams, bringing new users to the platform. You can read Equinix’s success story
+here on Microsoft.com.Particularly in this new normal of remote work, the ability to remain productive
+anywhere and anytime defines successful employees. But without a physical office or access to inperson help, these employees often don’t know where to find critical resources.With Teams, however,
+every key team member, workflow, and file is consolidated in a single place. And by adding Moveworks
+to Teams, getting IT support is just as simple.Contact Moveworks to demo and deploy our AI chatbot in
+your Teams environment.
+Discover how AIOps transforms IT operations from reactive to proactive.
+
+Understand the AIOps revolution and shift from firefighters to innovators.
+Learn how AI &
+automation can immediately provide ROI and elevate service experience at scale for federal and state
+government and the public sector as a whole.
+3 key takeaways from the Forrester Technology
+& Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read
+the recap.
+Conversational AI is improving healthcare delivery by automating tasks, surfacing
+knowledge, and supporting staff. Learn how leading providers use this technology.
+From
+spelling correction to intent classification, get to know the large language models that power
+Moveworks' conversational AI platform.
+AI is transforming IT operations analytics (ITOA). Here
+are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
+Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.Moveworks
+named a Forrester leader in Chatbot for IT operations. Schedule a meeting with a Moveworks
+representative and learn how we can help reduce employee issue resolution from days to seconds.By
+checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.Thank
+you.A member of the Moveworks team will be in touch within the next 24 hours. Close this modal Click
+here to read the full press release.Moveworks unveils a new, self-learning conversational AI technique,
+which solves employees' requests by generating customized responses based on real-time
+data.MOUNTAIN VIEW, Calif. -- Moveworks, the AI platform that automates support at work, today
+released new product enhancements to help employees navigate large and complex enterprise
+environments. They include a self-learning conversational AI technique, Adaptive Response, which
+generates customized responses to employees' requests in real time. Critically, the technique allows
+Moveworks to offer more than one relevant solution — for instance, a form plus a knowledge article —
+and to adapt future responses based on usage data.Moveworks also announced deep integrations with
+Simpplr, Cherwell, Freshservice, and SharePoint on-premises; it can search these knowledge bases for
+the snippet-sized answers to employees' questions. In addition, Moveworks now understands the
+security permissions of each user, ensuring that the right resources end up in the right hands. The
+enhanced platform is designed to keep pace as companies evolve, from automatically ingesting
+knowledge articles to dynamically creating responses.Employees expect to get help right away, said
+Moveworks CTO Vaibhav Nivargi. But in the context of a dynamic enterprise, identifying the forms,
+knowledge articles, and workflows they need is a profoundly difficult problem for machine learning.
+Moveworks is the first platform engineered to solve that problem. Between our new integrations, our
+robust security controls, and our unscripted approach to conversation, we've automated support for the
+world's largest companies.Adaptive ResponseAt large companies, there are often multiple resources
+with the potential to solve an employee's request. An employee who asks for help with PowerPoint
+might need a PowerPoint license, a troubleshooting guide, live support from an expert, or any
+combination of the above. Moreover, support teams are constantly adding and updating resources.
+When a company's travel policy changes on Friday, for example, the ideal AI chatbot gives employees
+the new policy on Monday morning, without any manual work for a bot designer. Ultimately,
+enterprises need the flexibility to serve different combinations of resources to different employees at
+different moments in time — a challenge too complex for conventional chatbots that script out
+responses in advance. By contrast, Moveworks' conversational AI system, Dynamic Flow™, generates
+responses on the fly, considering a wealth of context to deliver personalized and up-to-date resources.
+Adaptive Response further improves Dynamic Flow by offering a ranked spectrum of relevant solutions
+when useful, such as in the example above, so employees can select their own path to resolution. In
+these cases, more than 15 percent of requests are resolved by a resource other than the top-ranked
+
+option, resulting in even more precise support.IntegrationsWhen it comes to maintaining an effective
+knowledge base, most companies are forced to balance two competing interests. On one hand, every
+department — from IT to HR to Finance — typically prefers to keep knowledge articles in its own,
+specialized tool. But when documents are scattered across many different tools, employees struggle to
+find the answers to their questions. In fact, per McKinsey, the average knowledge worker spends nearly
+20 percent of the workday looking for internal information.Moveworks eliminates this trade-off: the
+platform automatically ingests articles from every department's knowledge base — without any manual
+configuration — and then answers employees' questions from a single interface on Microsoft Teams or
+Slack. Now, Moveworks can provide just the most useful snippets of information from Simpplr, Cherwell,
+Freshservice, and SharePoint on-premises, thanks to expanded integrations.PermissionsManaging
+permissions is among the most significant challenges in supporting employees with AI. To ensure that
+only authorized employees see sensitive content, Moveworks can now restrict access to forms and
+knowledge articles based on location, department, seniority, and other factors. Importantly, the
+platform is able to ingest existing access control rules within ServiceNow. This allows Moveworks to
+surface different forms and articles to users who submit identical requests, according to their unique
+permissions.Live Agent HandoffWith advanced machine learning, Moveworks is able to solve many
+support issues completely automatically. However, for complex issues that require human intervention,
+it's critical to get the right subject-matter experts involved as quickly as possible. That's why Moveworks
+has streamlined the handoff to a live service desk agent, via a deep integration with Vayusphere. For
+employees, this experience means there's just one place to go for help, regardless of their request.This
+deep integration between Moveworks and Vayusphere allows employees to get support in seconds,
+right from their favorite messaging tool, said Vayusphere CEO Pushpendra Mohta. By using AI to
+understand employees' requests, Moveworks makes the handoff to a live service desk agent seamless.
+The platform selects the right expert automatically, so even complicated support issues get solved right
+away.About MoveworksMoveworks is revolutionizing how companies support their employees — with
+the first AI platform that makes getting help at work effortless. The modern workday is full of
+disruptions, from IT issues to HR updates to policy changes. Moveworks understands exactly what
+employees need and provides the right solution in seconds, using conversational AI built for the
+enterprise. Our platform allows customers like DocuSign, Hearst, Broadcom, Autodesk, Equinix, and Palo
+Alto Networks to move forward on what matters.Media Contact Sophia Xepoleas, Sr PR ManagerEmail:
+pr@moveworks.aiWeb: Moveworks.com/contact Forrester names Moveworks a leader in Chatbot for IT
+operations. Read the report today.Moveworks named a Forrester leader in Chatbot for IT operations.
+Schedule a meeting with a Moveworks representative and learn how we can help reduce employee
+issue resolution from days to seconds.By checking this box, I agree to receive company news and
+updates. Learn more in the Privacy Policy.Thank you.A member of the Moveworks team will be in touch
+within the next 24 hours. Close this modal MOUNTAIN VIEW, Calif.-- Moveworks today launched
+Employee Experience Insights (EXI) — an analytics and insights solution that uses breakthrough
+techniques in Natural Language Understanding (NLU) and machine learning to uncover the issues
+slowing employees down the most. It gives CIOs an actionable to-do list based on which initiatives will
+maximize productivity and ROI.Today, business leaders face an impossible task: Increase operational
+efficiency, improve the employee experience, and do it all without first understanding what’s slowing
+employees down. A recent report found that 82% of leaders acknowledge that employees will consider
+leaving if their current employer does not provide access to the tools, technology, or information they
+need to do their jobs well. Nearly three in five employees who do experience this frustration said it
+
+makes them less productive. And yet, none of these leaders have had visibility into what’s slowing
+productivity and what’s not, so their ability to actually fix these problems is limited — until
+now.Employee Experience Insights uses advanced techniques in NLU and machine learning to analyze
+and categorize data coming in from customers’ ITSM systems. It offers CIOs granular insights into the
+biggest issues plaguing each employee persona — allowing leaders across every department to remove
+inefficiencies and resolve employees’ frustrations in real time. And, while current ITSM insights tools
+focus primarily on tickets and SLAs, EXI focuses entirely on people, which means businesses now have
+answers to critical questions, like:At Databricks, we know the right data and AI can transform how an
+organization does business, said Naveen Zutshi, CIO of Databricks. “My job is to empower our digital
+workforce with the tools and technologies they need to perform at their best. With Moveworks'
+sophisticated NLU and Employee Experience Insights, we have meaningful and actionable data to turn
+thousands of requests into an efficient plan of action and a best-in-class employee experience.Employee
+Experience Insights relies on Moveworks’ proprietary NLU models to understand and categorize each
+employee issue. While most out-of-the-box NLU models are only able to categorize 20 - 30% of a
+company’s tickets when attempting this same analysis, Moveworks’ NLU models are able to categorize
+100% of them. That’s because our models are trained on three different sources:“Every help desk is
+sitting on a treasure trove of information that could prevent future issues, before they happen,” said
+Bhavin Shah, CEO of Moveworks. “But business leaders have not yet been able to extract value from this
+data because the majority of AI models fail to understand the vast ambiguity of human language. Recent
+advancements in NLU have changed that — and it’s a milestone that will fundamentally change the way
+business leaders make decisions moving forward.”To schedule a demo of Employee Experience Insights,
+visit: https://www.moveworks.com/request-demoMedia Contact Sophia Xepoleas, Sr PR ManagerEmail:
+pr@moveworks.aiWeb: Moveworks.com/contact Forrester names Moveworks a leader in Chatbot for IT
+operations. Read the report today.Moveworks named a Forrester leader in Chatbot for IT operations.
+Schedule a meeting with a Moveworks representative and learn how we can help reduce employee
+issue resolution from days to seconds.By checking this box, I agree to receive company news and
+updates. Learn more in the Privacy Policy.Thank you.A member of the Moveworks team will be in touch
+within the next 24 hours. Close this modal Jake Speyer, Director, Solutions ArchitectureSince ChatGPT’s
+launch, my inbox has been loaded with pitches from startups claiming to be the next big conversational
+AI platform. I have a constant stream of promises to triple my team’s revenue, earn myself a promotion,
+or write my emails. And I suspect that decision-makers across industries and geographies have all felt
+similarly pressured to take advantage of this new tech ASAP. Of course, a few of these products are
+genuinely impressive. Others are essentially layering on top of the models built by OpenAI which
+underpin ChatGPT, and most are somewhere in between. But all of them, unfortunately, are designed to
+amaze non-experts during a demo.That said — given the costs and risks associated with deploying any
+new tech, let alone something as complex as AI — it’s crucial to make sure that your investment is sound
+in order to maximize ROI and minimize risk. So here’s the question: At a time when every product is “the
+ChatGPT of _______,” how can you decide which ones to trust? My aim is to provide you with: As
+consumers, we're accustomed to evaluating products based on their features. This is a perfectly
+reasonable approach for familiar products like cars, where questions like “does it have heated seats”
+and “can the trunk fit a large bike” can help us make an informed purchase decision.However, when it
+comes to AI products, the feature-based approach falls short. Take self-driving cars, for example. It's
+easy to get caught up in the car's impressive capabilities, such as its ability to change lanes with ease or
+stop on a dime. But simply having these features doesn't necessarily mean the car will keep you safe in
+
+the real world or perform well in a live environment.Instead, when evaluating AI products, it's crucial to
+take a more holistic approach. This means looking beyond the features to assess the product's overall
+effectiveness and reliability in real-world scenarios. It also means asking questions about the underlying
+technology and algorithms, the data sets used to train the AI, and the product's track record in scaling
+actual deployments. With so many conversational AI startups vying for your attention, asking the right
+questions can distinguish genuine conversational AI from mere imitations. Relying solely on lists of
+features can be misleading as they may not accurately reflect the product's real-world performance in
+your environment. It's important to look beyond the surface level and ask relevant questions that can
+reveal potential issues and ensure informed decision-making.To make the most of your conversational
+AI demo, consider asking these five critical questions that can help you gain a deeper understanding of
+the product's capabilities and potential limitations: When vendors provide demos, they often use their
+own data to showcase their system's capabilities, which may not accurately reflect how the platform will
+perform with your unique data. While the vendor's demo may appear impressive, it's essential to test
+the system with your data to determine if it's the right fit for your needs. And by using your own data,
+you can make sure that any analysis they provide uses their production models and processes, rather
+than any behind-the-scenes wizardry.By testing the system with your data, you'll have a better
+understanding of its performance and how it can handle your specific use cases. This approach allows
+you to identify any potential issues or limitations before making a purchase, saving you time and money
+in the long run. Many conversational AI vendors will say, “We use GPT-3!” without being able to dive
+deeper into why large language models (LLMs) are a critical part of any conversational AI product.
+Enterprise conversational AI requires the ability to understand the specific language used in that
+workplace. It may be challenging for vendors to develop on their own due to a lack of sufficient data.
+And it may be equally challenging for vendors who are just an interface on top of an LLM to answer
+business-related queries. A demo would reveal the limits of that understanding immediately.This
+question can also reveal how well-integrated and up-to-date the vendor’s technology is. Given how fast
+this space is moving, it's important to know how many LLMs have been retired and how often new ones
+are added to their stack. A vendor simply saying they use LLMs is not enough, as the best and most
+efficient models are constantly evolving. It's important to understand the tangible value a vendor is
+bringing to customers before investing in a product. Don't just take their word for it — ask for reference
+calls with current customers to get a better understanding of their experience with the product, how it’s
+performing, and how long it took to get them to that point. Or even better, ask them for a brief demo.
+This can give you a glimpse into how the product has impacted their business, what benefits they have
+seen, and any areas of improvement.Deploying large language models (LLMs) in production is a complex
+process that requires an advanced Machine Learning Ops platform, a team of human annotators to
+generate training data, and skilled engineers to optimize performance. It’s not something that’s going to
+happen overnight. If a company has no prior experience using LLMs, it may take years to build the
+necessary infrastructure. However, companies with a history of using LLMs are in a better position to
+quickly adopt the capabilities of this technology in their products. This is to say that it’s important to
+inquire about a vendor's experience with LLMs and their ability to deploy them in production as it can
+provide insight into the vendor’s expertise and whether they are equipped to handle the complexities of
+LLM deployment. With the rise of data breaches and cyber attacks, it's essential to know that your data
+is secure. Ensure that the vendor has a clear and comprehensive security plan in place, including
+measures such as data encryption, access control, and regular security audits. Additionally, ask about
+any compliance certifications or regulations that the vendor adheres to, such as HIPAA or FedRAMP, to
+
+ensure that they are meeting industry standards for data protection. By asking these questions, you can
+gain a better understanding of the security measures in place and make an informed decision about the
+safety of your data. In addition to asking the five questions above, look out for the following AI demo
+red flags:TL;DR: Get your smartest people in the room and suggest going off-script during the demo.
+Then, once you have a clear understanding of your own requirements and specific needs, push for
+reference calls and case studies to see how other organizations have achieved similar goals. To avoid
+making costly mistakes and ensure that you’re investing in AI solutions that are truly cutting-edge, you
+need to double down on due diligence. A well-executed demo can provide valuable insights into the
+product's capabilities and limitations, as well as help you identify potential red flags. By asking the right
+questions and involving your team in the evaluation process, you can make more informed decisions
+and choose the right conversational AI product for your organization.Schedule a demo with Moveworks
+to see how it’s done.
+Discover how AIOps transforms IT operations from reactive to proactive.
+Understand the AIOps revolution and shift from firefighters to innovators.
+Learn how AI &
+automation can immediately provide ROI and elevate service experience at scale for federal and state
+government and the public sector as a whole.
+3 key takeaways from the Forrester Technology
+& Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read
+the recap.
+Conversational AI is improving healthcare delivery by automating tasks, surfacing
+knowledge, and supporting staff. Learn how leading providers use this technology.
+From
+spelling correction to intent classification, get to know the large language models that power
+Moveworks' conversational AI platform.
+AI is transforming IT operations analytics (ITOA). Here
+are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
+Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.Moveworks
+named a Forrester leader in Chatbot for IT operations. Schedule a meeting with a Moveworks
+representative and learn how we can help reduce employee issue resolution from days to seconds.By
+checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.Thank
+you.A member of the Moveworks team will be in touch within the next 24 hours. Close this modal
+Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.Moveworks
+named a Forrester leader in Chatbot for IT operations. Schedule a meeting with a Moveworks
+representative and learn how we can help reduce employee issue resolution from days to seconds.By
+checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.Thank
+you.A member of the Moveworks team will be in touch within the next 24 hours. Close this modal
+Margo Poda, Content Marketing ManagerWe want to extend a big thanks to everyone who joined us at
+Moveworks Live!It was a jam-packed day of sessions, announcements, and live interactive discussions
+with our global community — more content than anyone could tune into live. So we’ve rounded up
+some highlights to help you catch up. Moveworks Live kicked off with CEO Bhavin Shah sharing our
+vision of language as the primary interface between people and systems in the enterprise world. He
+emphasized that AI has transitioned from a nice-to-have to a business imperative, playing a crucial role
+in various industries.This opening presentation took attendees on a journey through the evolution of AI
+technology, highlighting the remarkable resurgence of AI as an essential component of employee
+experience and how the transformer model invention and other milestones contributed to the rapid
+digital transformation in recent years.Bhavin ended by setting the stage for the event by discussing the
+potential of AI — and specifically, AI copilots — to streamline work processes, improve the employee
+experience, and promote productivity across multiple departments. Using natural language, employees
+can effortlessly connect to several business systems and change the way work is done.The opening
+
+section of Moveworks Live served as a powerful introduction to the transformative potential of
+conversational AI, inviting participants to explore how this technology will shape the future of work.We
+understand that businesses are looking for ways to leverage large language models (LLMs) effectively to
+create a tailored strategy. That’s why at Moveworks Live, CTO Vaibhav Nivargi shared a simple four-tier
+copilot framework to help you understand the level of investment and technology needed to build your
+copilot, depending on the specific use cases:MoveLM™ has two variations: a 7 billion parameter version
+that allows for a higher degree of customization and a 175 billion parameter version with enhanced
+reasoning capabilities. Generate any conversational AI use case with Creator StudioMoveworks Live
+gave us an opportunity to showcase our just-launched Creator Studio. Leveraging best-in-class language
+models, Creator Studio enables users to generate and fully deploy any conversational AI use case —
+without the need for building dialog flow or writing scripts. The platform consists of three main
+workspaces — Paths, Queries, and Events — which enable companies to connect their people and
+systems through the universal UI of language:This session included a selection of demos featuring each
+of these workspaces to let attendees experience Creator Studio’s ease of use, speed, and
+adaptability.We realize it's crucial to incorporate conversational AI into every organization's tech stack
+to keep up with the changing technological landscape. Boards around the world seem to be requiring
+CEOs to integrate conversational AI into every facet of their business, and this session provides a
+firsthand look into the potential of Creator Studio and its ability to transform the way companies create
+and manage conversational AI across the enterprise. Employee Experience Insights (EXI) harnesses
+Moveworks' expertise in Natural Language Understanding (NLU) and large language models (LLMs) to
+categorize, extract, and identify underlying problems from every incoming help desk ticket. With just a
+glance, you can get a comprehensive view of all issues in your organization.We initially built EXI because
+we realized that natural language analytics can help business leaders make data-driven decisions that
+result in smarter, more efficient operations and, ultimately, better outcomes for the organization.And
+that’s why at Moveworks Live, we revealed our ambitious plan to further apply the power of LLMs in
+analyzing unstructured data across various departments, starting with HR and eventually expanding into
+customer support and more. This development marks the beginning of a transformative journey that
+will utilize natural language analytics to streamline operations and enhance efficiency on a broader scale
+throughout the entire enterprise.If you’re a current Moveworks customer, you can request a 14-day free
+trial of EXI here.Moveworks Knowledge Writer is a game-changing tool designed to significantly reduce
+the time it takes to create, maintain, and update informative content for employees. This powerful tool
+uses AI to generate content, incorporating your organization's data and tailoring each piece for your
+unique environment. By using industry article templates and writing recommendations, you’ll
+effortlessly follow the most up-to-date guidelines for crafting engaging FAQs, tutorials, guidelines,
+policies, troubleshooting articles, and more.Rest assured, as Knowledge Writer provides the source of
+generated information, ensuring the quality and accuracy of your content while eliminating concerns
+about hallucinations.And we won’t leave you hanging! Our AI insights will ensure that you stay on top of
+your articles' performance and gain the valuable insights you need to continuously improve your
+knowledge base and address the needs of your employees. Moveworks Voice is reinventing the way
+voice recognition systems operate, departing from the limitations of traditional Interactive Voice
+Recognition (IVR) systems. While IVRs often struggle with aspects like ambient noise, speech variations,
+and industry-specific jargon, Moveworks Voice is designed to proficiently understand and navigate the
+intricacies of voice interactions, to assist in fluent and accurate responses. One of the tool's capabilities
+is to answer questions and take actions tailored to the unique needs of your organization's environment.
+
+This adaptability allows for seamless integration within your organization and increased efficiency.With
+the ability to perform helpful tasks for callers, Moveworks Voice can eliminate the need for admins to
+predict every possible request. This versatility simplifies interactions, saves time, and makes the overall
+experience more enjoyable for users.With the addition of Moveworks Voice, your organization will
+benefit from efficient, reliable, and high-quality voice support powered by LLMs, elevating your
+operations and overall user experience.At Moveworks Live, we introduced a next-generation enterprisewide copilot that’s designed to work with text, images, video, and voice. This Moveworks copilot uses
+the remarkable reasoning capabilities of large language models to serve as a helpful and reliable advisor
+for the entire organization. Powered by an efficient, custom LLM-based reasoning engine and a versatile
+integration platform personalized for your enterprise's unique data and processes, our copilot provides
+an interactive, multi-turn conversation experience, swiftly handling employee requests while pulling key
+information from multiple systems. As this copilot draws on Moveworks' extensive experience assisting
+millions of employees over the last six years, it scales self-serve resources, using our LLM reasoning
+engine to dynamically determine which tools best address a user's request. This approach allows for a
+rapid increase in supported scenarios and complete use of your self-help resources.Learn how
+Moveworks’ enterprise copilot allows employees to automate tasks or search for information across all
+enterprise systems through a single language interface. During a thought-provoking panel discussion
+hosted by Alex Henson, VP of Marketing at Moveworks, notable speakers, including Bhavin Shah, CEO of
+Moveworks, Srini Raghavan, VP of PM at Microsoft, and Adam Goldberg, Head of Azure OpenAI
+Enablement at OpenAI, shared their insights on how companies can fully leverage the potential of AI.The
+panelists emphasized that the most successful companies would utilize a complimentary suite of AI
+offerings that, when combined, can transform how their organizations operate. They advised focusing
+on the specific business problem at hand and selecting a solution or vendor that specializes in resolving
+it.The experts agreed that AI will become an integral part of every product, and no single AI vendor can
+cater to each organization's needs. This forward-thinking panel provided a valuable discussion on the
+synergy between various AI solutions and how proper integration can drive optimal results within
+businesses.Eager to uncover more insights from the Moveworks Live event? You're in luck! On-demand
+recordings will be available starting Monday, May 15th. Don't miss out on learning from industry experts
+as they share their thoughts on the transformative power of conversational AI.To get notified about
+these videos and for even more insightful content, make sure to visit the event landing page and stay
+tuned. Empower your enterprise with the knowledge of AI's incredible potential by catching every bit of
+news from Moveworks Live.Experience the future of work.Watch Moveworks Live on-demand starting
+Monday, May 15th!
+Discover how AIOps transforms IT operations from reactive to proactive.
+Understand the AIOps revolution and shift from firefighters to innovators.
+Learn how AI &
+automation can immediately provide ROI and elevate service experience at scale for federal and state
+government and the public sector as a whole.
+3 key takeaways from the Forrester Technology
+& Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read
+the recap.
+Conversational AI is improving healthcare delivery by automating tasks, surfacing
+knowledge, and supporting staff. Learn how leading providers use this technology.
+From
+spelling correction to intent classification, get to know the large language models that power
+Moveworks' conversational AI platform.
+AI is transforming IT operations analytics (ITOA). Here
+are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
+Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.Moveworks
+named a Forrester leader in Chatbot for IT operations. Schedule a meeting with a Moveworks
+
+representative and learn how we can help reduce employee issue resolution from days to seconds.By
+checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.Thank
+you.A member of the Moveworks team will be in touch within the next 24 hours. Close this modal
+Varun Singh, Co-Founder and PresidentLet’s not fool ourselves. The massive number of apps and
+workflows deployed by modern enterprises has made it increasingly difficult to work efficiently. Toggling
+between fragmented systems has become the norm, with most employees spending a significant
+amount of time just learning to navigate the latest platform, not knowing how to execute even the most
+basic tasks or even which app has the information they need.How do you solve this challenge at scale
+across the hundreds of workflows you've built and all the knowledge articles you've written? Creating
+custom use cases can be a real headache, demanding immense manual labor and technical know-how. It
+can take several months or even years to just launch one.Moveworks' new Creator Studio is set to
+change all of that. Launching today, Creator Studio is a generative, no-code platform that connects
+employees to every system and application across the enterprise with a unified, natural language
+interface.With Creator Studio, the people who know your business best — service owners, system
+owners, and enterprise architects across teams and departments — can create custom conversational AI
+use cases in minutes, all without the need for coding, scripting, or complex dialogue flows.And you’ll be
+able to deploy everywhere. Each new use case built with Creator Studio will be available in collaboration
+tools, including Microsoft Teams, Slack, Whatsapp, Facebook, and more. This also includes support for
+various modes of communication, like text, voice, and image, with on-the-fly translation in over 100
+languages.Starting today, language will serve as a universal interface that enables employees to bypass
+the complexities of enterprise ecosystems, search for information, and take action across every
+application simply by asking. Companies like Coca-Cola Consolidated and Power Design are already
+leveraging Creator Studio to use language as the primary interface for all apps, systems, workflows, and
+automations.Interested in learning more? Schedule a demo! In the meantime, to give you an idea of
+what's possible, let me highlight the three key Creator Studio workspaces: Paths, Queries, and Events.
+Paths workspace is a powerful no-code tool that allows teams to create fully controllable, generative,
+and custom conversations about specific, frequently requested topics.Traditional conversational AI
+toolkits can be complex and difficult to work with, often requiring extensive technical knowledge and
+scripting expertise. But with Paths, teams can easily describe the use case they need, and the platform's
+advanced generative AI and natural language processing capabilities will take care of the rest.Figure 1:
+With Creator Studio Paths, you can generate customer conversational AI use cases with natural
+language.Paths makes it possible for anyone to use a system conversationally. Let’s look at expense
+management. Instead of finding the right app and figuring out the new user interface, employees to
+access their expense reports conversationally, saving time and effort for both themselves and their
+managers.Other use cases include: Figure 2: Enable your employees to access their expenses with a
+simple question with Creator Studio. In today's fast-paced business world, data is king. But the sheer
+amount of information siloed away in countless systems and applications can make it difficult for
+employees to quickly access the insights they need. That's where Queries come in.With Queries
+workspace, employees can access data from any system, app, or workflow across their organization in
+just a few clicks. Whether you need to check the status of a sales deal in your CRM or see the latest
+updates on a project in your project management tool, Queries has you covered. Say goodbye to
+juggling endless apps and systems and hello to fast, efficient access to the data you need to get your job
+done.Figure 3: With Creator Studio Queries, you can securely access data from any system. With the
+ability to enable data queries across applications, Creator Studio can enhance efficiency and productivity
+
+for employees, including the Sales team. For example, by allowing the applicable employee to query
+Salesforce data, Creator Studio can surface essential account information, freeing up time for more
+impactful analyses and prospect conversations.Other use cases include: Figure 4: Creator Studio lets
+anyone query Salesforce data so your team can focus on more impactful analyses. Keeping on top of
+important events can be a real challenge, especially when you're juggling multiple tasks at once.With
+Events workspace, you can integrate with any application to streamline notifications and send proactive,
+actionable recommendations to help you stay on top of things before they slip through the cracks. From
+timely reminders about employee anniversaries to suggestions for cleaning up your disk space, Events
+helps you prioritize your work and stay ahead of the game.Figure 5: With Creator Studio Events, you can
+send proactive, actionable recommendations.From a user-experience perspective, Creator Studio helps
+employees act quickly in the face of critical events. With its rapid incident escalation capabilities, your
+team can resolve issues quickly and with minimal disruption.Other use cases include: Figure 6: Creator
+Studio helps developers to rapidly escalate business critical incidents. The field of conversational AI has
+been transformed in recent years by using large language models (LLMs) and generative AI. Leveraging
+these advancements, Creator Studio offers an enterprise-ready platform that is both highly effective and
+infinitely scalable. Acting as a layer on top of your enterprise apps, Creator Studio allows users to
+communicate and take control of systems and applications using natural language. With seamless
+communication between each system and application, Moveworks can take action based on user needs,
+increasing efficiency and productivity. Compared to existing conversational AI toolkits, such as rulesbased chatbots, Creator Studio is user-friendly and highly effective. Traditional solutions often require a
+great deal of technical expertise, precise coding of dialog flows, and are challenging to restructure. On
+the other hand, Creator Studio removes the need for dialogue flows altogether and instead harnesses
+the power of generative AI and best-in-class LLMs, like GPT 3.5 and GPT-4 — grounded by the
+Moveworks enterprise graph to improve robustness and reduce hallucinations — to generate any
+custom conversational AI use case. It is an enterprise-ready platform that facilitates easy
+implementation. At Moveworks, our dedication to pushing the boundaries of this technology is
+exemplified through our early access to the world's most advanced large language models (LLMs) on the
+market.We've been leveraging the power of LLMs and Natural Language Understanding (NLU) for
+several years, and our latest innovation, Creator Studio, builds on this foundation of best-in-class LLMs,
+proprietary NLU, AI, and machine learning technology.One of the unique features of Creator Studio is
+our use of multiple LLMs instead of just one. This approach is similar to having a toolbox with different
+tools, each suited for different tasks. Multiple LLMs with different specializations and abilities enhance
+their performance and better suit them for specific tasks. Using multiple LLMs provides a broader range
+of perspectives and knowledge, leading to more well-rounded and accurate outputs.With LLMs and
+NLU, we've changed the way conversational AI is used by the enterprise. Creator Studio is merely the
+latest example of how. With Creator Studio, our customers can use our out-of-the-box solutions or build
+customized conversational AI solutions tailored to their specific needs. This is achieved through cuttingedge LLMs like OpenAI's GPT-3.5 and GPT-4 and generative AI, which connect disparate apps and
+workflows across enterprises and allows users to create custom conversational AI use cases in minutes,
+without the need for coding, scripting, or complex dialogue flows.We're proud to be pioneers in using
+LLMs for conversational AI and look forward to continuing to push the boundaries of this technology.
+Creator Studio marks a significant milestone in the evolution of conversational AI for the enterprise. Its
+powerful combination of large language models, natural language processing, and machine learning
+technologies empowers enterprises to create highly-effective, infinitely-scalable, and personalized
